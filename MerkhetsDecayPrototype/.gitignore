@@ -1,0 +1,67 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]nity[Yy]akGeneratedFiles/
+
+# Rider generated
+.idea/
+
+# Visual Studio Code generated
+.vscode/
+
+# User-specific files
+/[Ss]aved[Oo]bjects/
+/[Ss]ettings/
+
+# Auto-generated project files
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+
+# Gradle
+.gradle/
+/gradlew
+/gradle/
+
+# Mac
+.DS_Store
+
+# Windows
+[Thumbs.db]
+
+# Android
+/captures/
+
+# iOS
+/Builds/
+/builds/
+
+# macOS build folder
+/[Bb]uild[Bb]uilds/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Docker
+DockerTest/DockerTest/
+
+# Unity3D project metadata files
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
