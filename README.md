@@ -30,11 +30,13 @@ The player shoots a laser, that makes the first zombie hit fast forward in time.
 ## Dash
 As a supportive mechanic, we added a dash. You simply dash forward and it helps the player travel around. Especially during the time stop this is useful, as you can easily dash from one enemy to another to get multi-kills inside the dome. 
 # Xombies
-At first, we only had melee zombies. But after playtesting, we felt like having a ranged zombie would benefit the game a lot. It adds a lot to the game, especially with the time stop. It is satisfying to see the projectile freeze right in front of you so you can dodge it afterwards.
+At first, we only had melee zombies. But after playtesting, we felt like having a ranged zombie would benefit the game a lot. It adds a lot to the game, especially with the time stop. It is satisfying to see the projectile freeze right in front of you so you can dodge it afterwards. The zombies would be a mix of a zombie with a mummy, to fit the Ancient Egypt setting.
 # Level
 This is a block out of the level. We wanted to give the illusion of a big city with lots of chaos because of the apocalypse. We did this by blocking off some parts of the streets. The path to the end is very straightforward, the player doesn't have a hard time looking for the path that he has to follow.
 # Improvements and what's next
+We would like to work this out and polish it more someday when we have more time. Some of the mechanics don't look super exciting yet, for example, the time forward. Right now it is just a simple laser that one-shots, but in the actual game, this would be a very satisfying ability that turns the zombies to dust. Next to that, we would also add some more visuals and animations.
 
+The actual gameplay that we would improve is the combat. We would add some additional attacks with the Khopesh. Currently, it is a simple slash, but we can do so many extra things with this unique weapon. The zombie combat would also change. Currently, you one-shot them, no matter where you hit them. But we would change the amount of hits depending on where you hit them. We could also introduce different types of zombies, with each type having unique health, attacks, range, etc.
 
 
 
