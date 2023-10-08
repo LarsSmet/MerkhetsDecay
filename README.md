@@ -1,5 +1,10 @@
- Introduction
+# Introduction
 Merkhet's Decay is a zombie slayer based in Ancient Egypt. Where you play as the half-god Merkhet, armed with the power of time manipulation he fights againsts hordes whilst the infection slowly spreads over his body.
+
+I made this project with Ruben Verhelst, one of my best friends. My primary focus was on designing and prototyping, while he took charge of the blockout, mood and lighting.
+
+# Goal
+The zombie genre has been a very popular genre over the past few years. Games like Left 4, Dead Dayz and Dying Light, but also series like The Walking Dead or The Last Of Us who recently got a TV series adaptation from their game. But the truth is, there are so many zombie games right now and they are all very similar. So it was our goal to put a unique twist to this genre, offering gameplay that the world of zombies hasn't seen before.
 
 # Mechanics
 
@@ -11,7 +16,7 @@ You can provide detailed information about the mechanics of your project in this
 
 <img src="image_url_here" alt="Image Description" align="right">
 
-Describe the picture or include a caption here.
+
 
 ## Video
 
@@ -20,10 +25,10 @@ Describe the picture or include a caption here.
   Your browser does not support the video tag.
 </video>
 
-Explain the content of the video or provide additional context.
+
 
 ---
 
 # End Note
 
-Conclude your README with any final thoughts, acknowledgments, or additional information about your project.
+
