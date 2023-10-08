@@ -1,4 +1,4 @@
-# Introduction
+ Introduction
 Merkhet's Decay is a zombie slayer based in Ancient Egypt. Where you play as the half-god Merkhet, armed with the power of time manipulation he fights againsts hordes whilst the infection slowly spreads over his body.
 
 # Mechanics
