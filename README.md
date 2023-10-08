@@ -29,7 +29,7 @@ The player goes 3 seconds back in time. It teleports him to that position and he
 The player shoots a laser, that makes the first zombie hit fast forward in time. This means that his body decays rapidly until he gets turned into dust. If cast during the time stop dome, this is also executed by the shadow when time resumes.
 ## Dash
 As a supportive mechanic, we added a dash. You simply dash forward and it helps the player travel around. Especially during the time stop this is useful, as you can easily dash from one enemy to another to get multi-kills inside the dome. 
-# Xombies
+# Zombies
 At first, we only had melee zombies. But after playtesting, we felt like having a ranged zombie would benefit the game a lot. It adds a lot to the game, especially with the time stop. It is satisfying to see the projectile freeze right in front of you so you can dodge it afterwards. The zombies would be a mix of a zombie with a mummy, to fit the Ancient Egypt setting.
 # Level
 This is a block out of the level. We wanted to give the illusion of a big city with lots of chaos because of the apocalypse. We did this by blocking off some parts of the streets. The path to the end is very straightforward, the player doesn't have a hard time looking for the path that he has to follow.
