@@ -18,7 +18,21 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 
 ## Khopesh
 
-The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>
+      Khopesh
+      The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
+    </p>
+    <p>
+      Infection (Decaying Health)
+      In almost every zombie game, the entire goal is to not get infected. But we decided to change that up; you actually start off infected! This makes his health deplete. Merkhet has to fight against his infection, by killing other zombies and thus fighting against the urge to turn. This makes him regen his health back. We thought this was a really interesting mechanic for a zombie.
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="![khopesh](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5)" alt="Khopesh Image" width="200">
+  </div>
+</div>
 
 
 
