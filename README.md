@@ -19,16 +19,19 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 ## Khopesh
 
 <div style="display: flex; align-items: center;">
-  <div>
+  <div style="order: 2; margin-left: 20px;">
+    <img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/8b582d83-d1a6-46a3-b6bc-e9da859a35f7" alt="Khopesh Image" width="200">
+  </div>
+  <div style="order: 1;">
     <p>
       Khopesh
       The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
     </p>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/8b582d83-d1a6-46a3-b6bc-e9da859a35f7" alt="Khopesh Image" width="200">
-  </div>
 </div>
+
+
+
 
 
 
