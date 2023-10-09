@@ -30,7 +30,7 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
     </p>
   </div>
   <div style="margin-left: 20px;">
-    <img src="![khopesh](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5)" alt="Khopesh Image" width="200">
+    <img src="![khopesh](https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/fd32a644-e007-4845-999d-134c1995a6e0)" alt="Khopesh Image" width="200">
   </div>
 </div>
 
