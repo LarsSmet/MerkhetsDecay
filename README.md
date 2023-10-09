@@ -18,7 +18,7 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 
 ## Khopesh
 The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
-<img align="right" src="![khopesh](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5)" alt="Image Description">
+![khopesh](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5)
 
 
 ## Infection (Decaying Health)
