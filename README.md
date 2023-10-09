@@ -10,7 +10,7 @@ The zombie genre has been a very popular genre over the past few years. Games li
 During our brainstorm, the big question was: How do we differentiate ourselves from other zombie games, how do we create a new experience in this genre? So to solve that question, we started to compare other zombie games. And we quickly came to the realisation that almost all of them are in the same setting. They are usually in this modern age within a city/urban area or in a stereotypical horror setting. One of the thoughts that crossed my mind was, what if we take it back in time? That would not only change the setting but for example the weapons as well. The initial idea was the medieval age, but unfortunately, we found out that there was already a medieval zombie game. So we kept thinking and eventually came up with Ancient Egypt, a super unique setting with lots of possibilities in terms of gameplay, visuals and story. We also decided that a night theme would be perfect for the game, it creates a scary atmosphere using moonlight and torches.
 
 # Story
-
+You might wonder, why Merkhet?
 
 
 # Gameplay and mechanics
@@ -18,6 +18,9 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 
 ## Khopesh
 The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
+<img align="right" src="![khopesh](https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5)" alt="Image Description">
+
+
 ## Infection (Decaying Health)
 In almost every zombie game, the entire goal is to not get infected. But we decided to change that up, you actually start off infected! This makes his health deplete. Merkhet has to fight against his infection, by killing other zombies and thus fighting against the urge to turn. This makes him regen his health back. We thought this was a really interesting mechanic for a zombie game and it also made sure that the game was fairly fast-phased and made sure that the player kills a lot of zombies, as it is a slasher game.
 ## Time Stop Dome
