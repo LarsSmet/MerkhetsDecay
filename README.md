@@ -18,7 +18,7 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 
 ## Khopesh
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; flex-direction: row;">
   <div>
     <p>
       Khopesh
@@ -29,6 +29,7 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
     <img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/8b582d83-d1a6-46a3-b6bc-e9da859a35f7" alt="Khopesh Image" width="200">
   </div>
 </div>
+
 
 
 
