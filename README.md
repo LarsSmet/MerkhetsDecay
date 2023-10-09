@@ -30,10 +30,6 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
   </div>
 </div>
 
-<p>
-  Infection (Decaying Health)
-  In almost every zombie game, the entire goal is to not get infected. But we decided to change that up; you actually start off infected! This makes his health deplete. Merkhet has to fight against his infection, by killing other zombies and thus fighting against the urge to turn. This makes him regen his health back. We thought this was a really interesting mechanic for a zombie.
-</p>
 
 
 
