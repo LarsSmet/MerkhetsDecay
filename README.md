@@ -17,8 +17,9 @@ You might wonder, why Merkhet?
 It was clear from the beginning that we wanted to use a typical, old Egyptian weapon in our game. In terms of mechanics and abilities, we thought about a lot of different things, but ultimately, the concept of time was really interesting to us. Additionally, we came up with an interesting mechanic which would motivate the player to slash his way through the game.
 
 ## Khopesh
-The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
 <img align="right" src="https://github.com/LarsSmet/ILostMyLimbs/assets/97398099/5ba54791-641f-4b02-8f60-391f2fdfd2d5" alt="khopesh">
+The Khopesh is a typical weapon from Ancient Egypt. So we thought it would be the perfect weapon for the game. It is way more unique than the typical sword or knife that you see in other zombie games. The player uses this to kill the zombies.
+
 
 
 ## Infection (Decaying Health)
