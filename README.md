@@ -13,7 +13,7 @@ The zombie genre has been a very popular genre over the past few years. Games li
 During our brainstorm, the big question was: How do we differentiate ourselves from other zombie games, how do we create a new experience in this genre? So to solve that question, we started to compare other zombie games. And we quickly came to the realisation that almost all of them are in the same setting. They are usually in this modern age within a city/urban area or in a stereotypical horror setting. One of the thoughts that crossed my mind was, what if we take it back in time? That would not only change the setting but for example the weapons as well. The initial idea was the medieval age, but unfortunately, we found out that there was already a medieval zombie game. So we kept thinking and eventually came up with Ancient Egypt, a super unique setting with lots of possibilities in terms of gameplay, visuals and story. We also decided that a night theme would be perfect for the game, it creates a scary atmosphere using moonlight and torches.
 
 # Story
-You might wonder, why Merkhet?
+Merkhet is son of of Thoth. He is a half-god, because his mother isn't a god. On his 18th birthday, Osiris created a big challenge to test him, he caused the zombie apocalypse to happen on earth. But he also cursed Mekhet with the virus. In order to stop the apocalypse and free himself from the virus, Merkhet has to reach the temple of Osiris.
 
 
 # Gameplay and mechanics
