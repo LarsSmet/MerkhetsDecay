@@ -3,8 +3,7 @@ Merkhet's Decay is a zombie slasher based in Ancient Egypt. Where you play as th
 
 I made this project with Ruben Verhelst, one of my best friends. My primary focus was on designing and prototyping, while he took charge of the blockout, mood and lighting.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title](https://www.youtube.com/embed/VCGpqNbfFC4?si=w9YscRwIx-LrHXst)")
-
+[Watch the gameplay video on YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/embed/VCGpqNbfFC4?si=w9YscRwIx-LrHXst))
 
 
 # Goal
