@@ -42,22 +42,26 @@ It was clear from the beginning that we wanted to use a typical, old Egyptian we
 
 ## Infection (Decaying Health)
 In almost every zombie game, the entire goal is to not get infected. But we decided to change that up, you actually start off infected! This makes his health deplete. Merkhet has to fight against his infection, by killing other zombies and thus fighting against the urge to turn. This makes him regen his health back. We thought this was a really interesting mechanic for a zombie game and it also made sure that the game was fairly fast-phased and made sure that the player kills a lot of zombies, as it is a slasher game.
-## Time Stop Dome
-The main ability is the time stop dome. Using it creates a stationary dome at the player's position. Inside the dome, time is stopped. This means that all enemies and enemy projectiles are frozen. If the player does an attack, this won't get executed instantly. Instead, he leaves behind a shadow. Once the dome ends, time will resume and all the attacks the player did will be executed. This ability also impacts your health depletion, as the infection will also freeze in time. 
-![timestop](https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/a4cd70d5-d061-44cd-aa29-cdf176db5baa)
+<!-- Time Stop Dome -->
+<h3>Time Stop Dome</h3>
+<p>The main ability is the time stop dome. Using it creates a stationary dome at the player's position. Inside the dome, time is stopped. This means that all enemies and enemy projectiles are frozen. If the player does an attack, this won't get executed instantly. Instead, he leaves behind a shadow. Once the dome ends, time will resume and all the attacks the player did will be executed. This ability also impacts your health depletion, as the infection will also freeze in time.</p>
+<img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/a4cd70d5-d061-44cd-aa29-cdf176db5baa" alt="Time Stop Dome Image">
 
-## Time Rewind
-The player goes 3 seconds back in time. It teleports him to that position and he goes back to that health, regardless if he lost or gained health during that time period.
-![rewind](https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/a523b145-9f41-422f-a08b-cadf83d5c72e)
+<!-- Time Rewind -->
+<h3>Time Rewind</h3>
+<p>The player goes 3 seconds back in time. It teleports him to that position and he goes back to that health, regardless if he lost or gained health during that time period.</p>
+<img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/a523b145-9f41-422f-a08b-cadf83d5c72e" alt="Time Rewind Image">
 
-## Time Forward
-The player shoots a laser, that makes the first zombie hit fast forward in time. This means that his body decays rapidly until he gets turned into dust. If cast during the time stop dome, this is also executed by the shadow when time resumes.
-![forward](https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/37ada709-b671-41ef-8aca-2971c709de0b)
+<!-- Time Forward -->
+<h3>Time Forward</h3>
+<p>The player shoots a laser, that makes the first zombie hit fast forward in time. This means that his body decays rapidly until he gets turned into dust. If cast during the time stop dome, this is also executed by the shadow when time resumes.</p>
+<img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/37ada709-b671-41ef-8aca-2971c709de0b" alt="Time Forward Image">
 
+<!-- Dash -->
+<h3>Dash</h3>
+<p>As a supportive mechanic, we added a dash. You simply dash forward and it helps the player travel around. Especially during the time stop this is useful, as you can easily dash from one enemy to another to get multi-kills inside the dome.</p>
+<img src="https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/bf0b73fd-785b-4fea-a9fe-dce3267c9606" alt="Dash Image">
 
-## Dash
-As a supportive mechanic, we added a dash. You simply dash forward and it helps the player travel around. Especially during the time stop this is useful, as you can easily dash from one enemy to another to get multi-kills inside the dome. 
-![dash](https://github.com/LarsSmet/MerkhetsDecay/assets/97398099/bf0b73fd-785b-4fea-a9fe-dce3267c9606)
 
 # Zombies
 At first, we only had melee zombies. But after playtesting, we felt like having a ranged zombie would benefit the game a lot. It adds a lot to the game, especially with the time stop. It is satisfying to see the projectile freeze right in front of you so you can dodge it afterwards. The zombies would be a mix of a zombie with a mummy, to fit the Ancient Egypt setting.
