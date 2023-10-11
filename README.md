@@ -3,6 +3,10 @@ Merkhet's Decay is a zombie slasher based in Ancient Egypt. Where you play as th
 
 I made this project with Ruben Verhelst, one of my best friends. My primary focus was on designing and prototyping, while he took charge of the blockout, mood and lighting.
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="ttps://www.youtube.com/watch?v=VCGpqNbfFC4" allowfullscreen></iframe>
+</div>
+
 # Goal
 The zombie genre has been a very popular genre over the past few years. Games like Left 4, Dead Dayz and Dying Light, but also series like The Walking Dead or The Last Of Us who recently got a TV series adaptation from their game. But the truth is, there are so many zombie games right now and they are all very similar. So it was our goal to put a unique twist to this genre, offering gameplay that the world of zombies hasn't seen before. At first, we wanted to make a game which offered a mix between stealth and slasher, but we realised that this would be hard to pull off successfully. So eventually we decided to go all in for a slasher game.
 
